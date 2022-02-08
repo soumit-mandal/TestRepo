@@ -1,1 +1,2 @@
 This is the file to commit.
+A new line is added.
