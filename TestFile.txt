@@ -1,4 +1,5 @@
 This is the file to commit.
-A new line is added.
+A new line is added. For conflict.
 One more line is added.
 change 1.
+Added in master for git rebase.
