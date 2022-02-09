@@ -4,3 +4,7 @@ One more line is added.
 change 1.
 Added in master for git rebase.
 One line added in branch idea. Example for git rebase.
+Change 3.
+change-bug 4.
+change-bug 5.
+change-bug 6.
