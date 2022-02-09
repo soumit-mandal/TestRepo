@@ -2,3 +2,4 @@ This is the file to commit.
 A new line is added.
 One more line is added.
 change 1.
+Change 3.
